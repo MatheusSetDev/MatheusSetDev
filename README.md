@@ -1,5 +1,5 @@
 # 💫 About Me:
-W.I.P
+W.I.P (Work in Progress)
 
 
 # 💻 Tech Stack:
